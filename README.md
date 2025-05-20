@@ -14,6 +14,7 @@ A mobile app that helps individuals and groups decide where to eat by  restauran
 | **HomeScreen** | Central hub with quick access to all features |
 | **RestaurantsScreen** | Browse/search restaurants with filters (cuisine, price, rating) |
 | **PeopleScreen** | Manage adding persons delete and edit |
+| **DecisionScreen** | Group voting system with random selection fallback |
 
 
 ### Core Capabilities
