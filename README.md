@@ -50,21 +50,21 @@ A mobile app that helps individuals and groups decide where to eat by  restauran
 
 
 /src
-├── assets/               # Static resources
-│   ├── images/           # App images
-│   └── fonts/            # Custom fonts
-├── components/           # Shared UI components
-│   ├── RestaurantCard/   # Reusable card component
-│   ├── VotingWidget/     # Decision tools
-│   └── ...               # Other components
-├── screens/              # Feature screens
-│   ├── DecisionScreen/   # Group decision logic
-│   ├── RestaurantsScreen/ # API integration
-│   └── ...               # Other screens
-├── contexts/             # Global state
-├── utils/                # Helper functions
-├── App.js                # Root component
-└── navigation.js         # Routing configuration Project Structure
+├── assets/
+│   ├── images/
+│   └── fonts/
+├── components/
+│   ├── RestaurantCard/
+│   ├── VotingWidget/
+│   └── ...
+├── screens/
+│   ├── DecisionScreen/
+│   ├── RestaurantsScreen/
+│   └── ...
+├── contexts/
+├── utils/
+├── App.js
+└── navigation.js
 
 
 
